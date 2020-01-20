@@ -4,10 +4,11 @@ We manually annotated various eye-tracking corpora with named entity labels (PER
 
 This repository contains the data used for the following papers:
 
-"[Entity Recognition at First Sight: Improving NER with Eye Movement Information](https://www.aclweb.org/anthology/N19-1001/)" by Nora Hollenstein &amp; Ce Zhang (NAACL, 2019).
+"[Entity Recognition at First Sight: Improving NER with Eye Movement Information](https://www.aclweb.org/anthology/N19-1001/)" by Nora Hollenstein &amp; Ce Zhang (NAACL, 2019).  
+Data used: Dundee, GECO, ZuCo 1.0 (sentiment and normal reading)
 
-
-"[Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/pdf/1904.02682.pdf)" by Nora Hollenstein et al. (ArXiV preprint, 2019).
+"[Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/pdf/1904.02682.pdf)" by Nora Hollenstein et al. (ArXiV preprint, 2019).  
+Data used: ZuCo 1.0 (sentiment and normal reading)
 
 ## Annotation Guidelines
 

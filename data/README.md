@@ -1,1 +1,1 @@
-We manually annotated three eye-tracking corpora with named entity labels (PERSON, ORGANIZATION, LOCATION). We do not re-distribute the original eye-tracking data. Hence, these files only contain text and named entity annotations.
+We manually annotated various eye-tracking corpora with named entity labels (PERSON, ORGANIZATION, LOCATION). We do not re-distribute the original eye-tracking data. Hence, these files only contain text and named entity annotations.

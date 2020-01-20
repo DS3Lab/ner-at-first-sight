@@ -13,7 +13,3 @@ Data used: ZuCo 1.0 (sentiment and normal reading)
 ## Annotation Guidelines
 
 The datasets were annotated by two NLP experts. The IOB tagging scheme was used for the labeling. We followed the [ACE Annotation Guidelines](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-relations-guidelines-v6.2.pdf) (Linguistic Data Consortium, 2005).
-
-## Annotation Notes
-
-...
